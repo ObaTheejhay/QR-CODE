@@ -65,3 +65,7 @@ p{
 .attribution a { 
     color: hsl(228, 45%, 44%); 
 }
+
+.attribution{
+    margin-top: 50px;
+}
